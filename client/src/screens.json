@@ -6,7 +6,14 @@
       "id": "We",
       "name": "we",
       "folder": true,
-      "screens": []
+      "screens": [
+        {
+          "id": "Www",
+          "name": "www",
+          "sourceScreenId": "Login",
+          "sourceAppId": "default"
+        }
+      ]
     }
   ]
 }
