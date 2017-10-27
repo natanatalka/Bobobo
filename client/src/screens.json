@@ -13,6 +13,12 @@
       "name": "o",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "Gg",
+      "name": "gg",
+      "sourceScreenId": "Login",
+      "sourceAppId": "default"
     }
   ]
 }
