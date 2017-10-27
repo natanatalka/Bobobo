@@ -1,2 +1,2 @@
-export * from './Pony/index';
+export * from './O_Pony/index';
 export * from './Test/index';

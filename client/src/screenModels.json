@@ -1,9 +1,4 @@
 {
-  "Pony": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
-  },
   "Test": {
     "type": "object",
     "comment": "Login",
@@ -28,5 +23,10 @@
         }
       }
     }
+  },
+  "O_Pony": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
   }
 }

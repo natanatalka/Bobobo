@@ -12,13 +12,14 @@
       "id": "O",
       "name": "o",
       "folder": true,
-      "screens": []
-    },
-    {
-      "id": "Pony",
-      "name": "Pony",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
+      "screens": [
+        {
+          "id": "Pony",
+          "name": "Pony",
+          "sourceScreenId": "Blank",
+          "sourceAppId": "default"
+        }
+      ]
     },
     {
       "id": "Test",
