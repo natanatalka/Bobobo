@@ -1,5 +1,10 @@
 {
-  "Test": {
+  "O_Pony": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
+  },
+  "O_2_Test": {
     "type": "object",
     "comment": "Login",
     "properties": {
@@ -23,10 +28,5 @@
         }
       }
     }
-  },
-  "O_Pony": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {}
   }
 }
