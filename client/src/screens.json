@@ -9,6 +9,12 @@
       "screens": []
     },
     {
+      "id": "Test",
+      "name": "Test",
+      "sourceScreenId": "Login",
+      "sourceAppId": "default"
+    },
+    {
       "id": "O",
       "name": "o",
       "folder": true,
@@ -17,14 +23,7 @@
           "id": "2",
           "name": "2",
           "folder": true,
-          "screens": [
-            {
-              "id": "Test",
-              "name": "Test",
-              "sourceScreenId": "Login",
-              "sourceAppId": "default"
-            }
-          ]
+          "screens": []
         }
       ]
     }
