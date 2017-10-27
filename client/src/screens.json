@@ -23,14 +23,7 @@
           "id": "2",
           "name": "2",
           "folder": true,
-          "screens": [
-            {
-              "id": "Test",
-              "name": "Test",
-              "sourceScreenId": "Login",
-              "sourceAppId": "default"
-            }
-          ]
+          "screens": []
         }
       ]
     }
