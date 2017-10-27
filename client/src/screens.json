@@ -6,14 +6,7 @@
       "id": "We",
       "name": "we",
       "folder": true,
-      "screens": [
-        {
-          "id": "Blank",
-          "name": "Blank",
-          "sourceScreenId": "Blank",
-          "sourceAppId": "default"
-        }
-      ]
+      "screens": []
     },
     {
       "id": "O",
