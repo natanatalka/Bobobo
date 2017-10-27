@@ -3,12 +3,6 @@
   "name": "Bobobo",
   "screens": [
     {
-      "id": "Blank",
-      "name": "Blank",
-      "sourceScreenId": "Blank",
-      "sourceAppId": "default"
-    },
-    {
       "id": "We",
       "name": "we",
       "folder": true,
