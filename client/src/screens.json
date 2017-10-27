@@ -9,12 +9,6 @@
       "screens": []
     },
     {
-      "id": "Test",
-      "name": "Test",
-      "sourceScreenId": "Login",
-      "sourceAppId": "default"
-    },
-    {
       "id": "O",
       "name": "o",
       "folder": true,

@@ -1,1 +1,1 @@
-export * from './Test/index';
+export {};
