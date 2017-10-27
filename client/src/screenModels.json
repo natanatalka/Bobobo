@@ -1,1 +1,7 @@
-{}
+{
+  "Pony": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
+  }
+}
