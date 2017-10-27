@@ -1,1 +1,7 @@
-{}
+{
+  "We_Blank": {
+    "type": "object",
+    "comment": "Blank",
+    "properties": {}
+  }
+}
