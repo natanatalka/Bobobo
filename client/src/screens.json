@@ -19,6 +19,12 @@
       "name": "Pony",
       "sourceScreenId": "Blank",
       "sourceAppId": "default"
+    },
+    {
+      "id": "Test",
+      "name": "Test",
+      "sourceScreenId": "Login",
+      "sourceAppId": "default"
     }
   ]
 }
