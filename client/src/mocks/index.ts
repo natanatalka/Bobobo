@@ -1,1 +1,1 @@
-export * from './Gg/index';
+export {};
