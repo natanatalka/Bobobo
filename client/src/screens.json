@@ -7,6 +7,12 @@
       "name": "we",
       "folder": true,
       "screens": []
+    },
+    {
+      "id": "O",
+      "name": "o",
+      "folder": true,
+      "screens": []
     }
   ]
 }
